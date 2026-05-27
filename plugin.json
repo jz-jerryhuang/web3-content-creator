@@ -1,0 +1,14 @@
+{
+  "name": "content-creator-plugin",
+  "version": "1.0.0",
+  "description": "Jerry's Web3 Content Creator Agent Skill",
+  "author": {
+    "name": "Jerry Huang"
+  },
+  "license": "MIT",
+  "keywords": [
+    "content-creator",
+    "social-media",
+    "automation"
+  ]
+}

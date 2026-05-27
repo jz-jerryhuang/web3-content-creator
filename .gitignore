@@ -1,5 +1,33 @@
+# Dependencies
 node_modules/
-.gemini/
-.env
+
+# OS/IDEs
 .DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Antigravity temporary files
+.gemini/
 *.log
+
+# User's Article Content & Artifacts (not part of the skill)
+[0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9]_*/
+Canva/
+IG_cover/
+drafts/
+Sources/
+限時動態/
+Ether.fi 加密神卡：無痛接軌現實消費/
+JPM Coin 登陸 Base 鏈： 去中心化與監管的甜蜜點/
+穩定幣即服務（SCaaS）：從自建走向白牌金融/
+穩定幣撬開的不只是支付的世界.mp4
+
+# Temp / Output Files
+Instagram_Posts.md
+latest_insight.txt
+dry_run_carousel.md
+test_gemini_run.md
+canva_bulk_create.csv
+instagram_caption.md
+cover_image.png
